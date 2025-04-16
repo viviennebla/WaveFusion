@@ -1,5 +1,4 @@
 todo list
 - [x]  release model
-- [ ]  release trainning code
-- [ ]  release dataset
+- [x]  release trainning code
 - [ ]  finish readme
